@@ -1,11 +1,13 @@
 # llbeirut_images
 
-This repository contains images taken during the data collection process of the Linguistic Landscapes of Beirut project in 2015-16. 
+This repository contains images taken during the data collection process of the Linguistic Landscapes of Beirut project. 
 
-The thumbnails folder contains shrunken images to 300px width using the ImageMagick library. The watermarked folder contains the full images with a tiled watermark made also with the ImageMagick library. Most metadata has been stripped from the images using EXIFTOOL. Refer to the general metadata file for information related to the images. 
+All image manipulation was carried out using the ImageMagick Library. The thumbnails folder contains images shrunken to 300px width. The watermarked folder contains the full images with a tiled watermark. 
 
-All images are released with a CC BY-SA 4.0 International license. If you would like to reuse one of the larger format images without the watermark, you may do so using the suggested citation below. Write to us with the name of the file(s) you require, and we will do our best to be back in touch in a timely manner. 
+Most metadata has been stripped from the images using EXIFTOOL. Refer to the general metadata file for information related to individual images. 
+
+All images are released here with a CC BY-SA 4.0 International license. If you would like to reuse one of the larger format images without the watermark, you may do so using the suggested citation below. Send us a [request](llbeirut9@gmail.com) with the name of the file(s) you require, and we will do our best to be back in touch in a timely manner. 
 
 Suggested citation:
 
-Linguistic Landscapes of Beirut Project - LLB. (2022). 
+Linguistic Landscapes of Beirut Project - LLB. (2022). [Image ID and description]. NYU Abu Dhabi. 
